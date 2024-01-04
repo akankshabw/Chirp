@@ -6,5 +6,7 @@ The "EDA.ipynb" notebook is the assignment in which I have performed EDA of the 
 
 The "Copy_of_FE.ipynb" file is an assignment in which I have extracted features from the audio folders "Number 5" and "Number 9" and tried to find common patterns between audios of the same number and differences between features of audios of different numbers so you can classify which audio represents which number. 
 
+In "Neural_Network_Model.ipynb", I have created a Neural Network which classifies the audio files into various categories. The link to the dataset used in this assignment is: https://drive.google.com/drive/folders/1Nh3wf1P47CGzUzBnecJMaog33R3vAuNb?usp=sharing
+
  
 
