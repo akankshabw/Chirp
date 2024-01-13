@@ -8,7 +8,7 @@ The "Copy_of_FE.ipynb" file is an assignment in which I have extracted features 
 
 In "Neural_Network_Model.ipynb", I have created a Neural Network which classifies the audio files into various categories. The link to the dataset used in this assignment is: https://drive.google.com/drive/folders/1Nh3wf1P47CGzUzBnecJMaog33R3vAuNb?usp=sharing
 
-The final submission of this project was to build a Neural Network model which could recognize birdsongs of different birds. Final_EDA.ipynb and Final_FE.ipynb are the EDA and Feature Engineering files of the dataset used for training the model. The final-model.ipynb is the notebook for the final model. The link to the dataset which is: https://www.kaggle.com/competitions/birdsong-recognition/data 
+The final submission of this project was to build a Neural Network model which could recognize birdsongs of different birds. "Final_EDA.ipynb" and "Final_FE.ipynb" are the EDA and Feature Engineering files of the dataset used for training the model. The "final-model.ipynb" is the notebook for the final model. The link to the dataset which is: https://www.kaggle.com/competitions/birdsong-recognition/data 
 
  
 
